@@ -1,0 +1,7 @@
+{
+  "name": "IonicTinkering",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
